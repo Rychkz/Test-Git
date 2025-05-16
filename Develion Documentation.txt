@@ -12,3 +12,8 @@ Rules
     -> 3 realizar el commit con comentarios
     -> 4 NO OLVIDAR HACER EL ###### PUSH #####
     -> Una vez solicitado y aprobado el pull request deberas elminar la rama de manera local, si aun no recibes la aprobación conserva la rama hasta obtener comentarios.
+
+-> Realizar el pull request como draft, adicional agregar un revisor para la previa revisión y aprobación de la Request.
+-> una vez realizado el merge la rama sera eliminada del reporsitorio remoto por lo que se recomienda cambiar a la rama Main local, 
+   realizar un Pull para obtener la ultima version y una vez terminado el pull, regresar a la rama de desarrollo para continuar con las tareas.
+   
