@@ -11,3 +11,4 @@ Rules
     -> 2 realizar el staged -> recomendado usar la opción staged changes en lugar de Staged all changes
     -> 3 realizar el commit con comentarios
     -> 4 NO OLVIDAR HACER EL ###### PUSH #####
+    -> Una vez solicitado y aprobado el pull request deberas elminar la rama de manera local, si aun no recibes la aprobación conserva la rama hasta obtener comentarios.
