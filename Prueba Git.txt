@@ -8,6 +8,6 @@ Rules
 
 -> Seguir el siguiente flujo de trabajo 
     -> 1 guardar cambios 
-    -> 2 realizar el staged 
+    -> 2 realizar el staged -> recomendado usar la opción staged changes en lugar de Staged all changes
     -> 3 realizar el commit con comentarios
     -> 4 NO OLVIDAR HACER EL ###### PUSH #####
