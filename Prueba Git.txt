@@ -1,3 +1,7 @@
 Esto es una prueba de como no tronar el ambiente productivo
 
 nel que se truene
+
+Rules
+
+-> No olvidar hacer un staged antes del commit
